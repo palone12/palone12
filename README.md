@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Ionic - Angular**
 
-- 👨‍💻 All of my projects are available at [https://pranayalone.netlify.app/](https://pranayalone.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://pranayalone.netlify.app/](https://pranayalone.netlify.app/](https://portfolio-nkx8cdst3-palone12s-projects.vercel.app/))
 
-- 💬 Ask me about **React JS ,Javascript , Node , Mongo DB ,Express**
+- 💬 Ask me about **React JS ,Javascript, Typescript  , Node , Mongo DB ,Express**
 
 - 📫 How to reach me **alonepranay123@gmail.com**
 
