@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **StepJobs**
+- 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Ionic - Angular**
 
 - 👨‍💻 All of my projects are available at [https://pranayalone.netlify.app/](https://pranayalone.netlify.app/)
 
